@@ -1,0 +1,4 @@
+interface:
+  display_name: "Agent Session Review"
+  short_description: "Quietly monitor Claude or Codex and verify completed work"
+  default_prompt: "Use $agent-session-review to monitor the specified Claude or Codex session quietly and review each completed response against evidence."
